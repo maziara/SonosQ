@@ -1,1 +1,1 @@
-from .SonosQ import SonosQ
+from . import SonosQ
